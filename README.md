@@ -50,7 +50,7 @@ Acredito que segurança começa na ARQUITETURA, não no firewall.
 
 Atualmente: estudando AWS Developer Associate na Escola da Nuvem
              + Blue Team Specialty no Hackers do Bem
-             + mentorando CLF-C02 porque eu aprendo mais
+             + mentorando CLF-C02 para apoiar outros e também reforçar meu aprendizado.
 ```
 
 ---
