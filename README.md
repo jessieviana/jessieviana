@@ -63,7 +63,7 @@ Atualmente: estudando AWS Developer Associate na Escola da Nuvem
 ├─────────────────────────────────────────┼────────────────────┼──────────┤
 │ AWS Cloud Practitioner (CLF-C02)        │ Amazon Web Services│ ✅ PASS  │
 │ AWS Developer Associate (DVA-C02)       │ Escola da Nuvem    │ 🔄 WIP   │
-│ Blue Team Specialty                     │ Hackers do Bem     │ 🔄 WIP   │
+│ Blue Team Specialty                     │ Hackers do Bem     │ ✅ PASS  │
 └─────────────────────────────────────────┴────────────────────┴──────────┘
 ```
 
