@@ -10,7 +10,7 @@
 ║ ╚█████╔╝███████╗███████║███████║██║███████╗  ║
 ║  ╚════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚══════╝  ║
 ║                                              ║
-║    [ CLOUD SECURITY · BLUE TEAM · MENTOR ]   ║
+║        [ MENTOR · CLOUD · BLUE TEAM  ]       ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -21,7 +21,7 @@ $ ./boot_operator.sh --user jessieviana
 
 > SYSTEM BOOT .............. [OK]
 > LOADING OPERATOR ......... jessieviana
-> CLEARANCE LEVEL .......... CLOUD DEFENDER
+> CLEARANCE LEVEL .......... CLOUD AWS
 > LOCATION ................. -22.9068°S, -43.1729°W // RIO DE JANEIRO, BR
 > SPECIALTY ................ AWS · SIEM · THREAT DETECTION · LOG ANALYSIS
 > MENTORSHIP ............... ACTIVE
@@ -49,8 +49,7 @@ Estou em transição para tech com foco em cloud security.
 Acredito que segurança começa na ARQUITETURA, não no firewall.
 
 Atualmente: estudando AWS Developer Associate na Escola da Nuvem
-             + Blue Team Specialty no Hackers do Bem
-             + mentorando CLF-C02 para apoiar outros e também reforçar meu aprendizado.
+            + mentorando CLF-C02 para apoiar e também reforçar meu aprendizado.
 ```
 
 ---
@@ -62,8 +61,8 @@ Atualmente: estudando AWS Developer Associate na Escola da Nuvem
 │ CERTIFICAÇÃO                            │ PROVIDER           │ STATUS   │
 ├─────────────────────────────────────────┼────────────────────┼──────────┤
 │ AWS Cloud Practitioner (CLF-C02)        │ Amazon Web Services│ ✅ PASS  │
-│ AWS Developer Associate (DVA-C02)       │ Escola da Nuvem    │ 🔄 WIP   │
 │ Blue Team Specialty                     │ Hackers do Bem     │ ✅ PASS  │
+│ AWS Developer Associate (DVA-C02)       │ Escola da Nuvem    │ 🔄 WIP   │
 └─────────────────────────────────────────┴────────────────────┴──────────┘
 ```
 
@@ -101,8 +100,8 @@ Atualmente: estudando AWS Developer Associate na Escola da Nuvem
 [INFO]  Auxiliando quem está entrando no mundo cloud
 [INFO]  Primeira certificação AWS: missão aceita
 [WARN]  Não me chame só pra tirar dúvida de prova —
-[WARN]  me chama pra falar de arquitetura segura também 😤
-[OK]    Se você tá começando: sem julgamento, vem conversar.
+[WARN]  me chama pra falar de arquitetura segura também ^^
+[OK]    Se você tá começando: traga suas dúvidas e curiosidades, vamos conversar e trocar conhecimento.
 ```
 
 ---
