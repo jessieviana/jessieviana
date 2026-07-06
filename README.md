@@ -45,8 +45,7 @@ $ ./boot_operator.sh --user jessieviana
 ## `// whoami`
 
 ```
-Estou em transição para tech com foco em cloud security.
-Acredito que segurança começa na ARQUITETURA, não no firewall.
+Busco oportunidades como Instrutora Técnica ou Analista Júnior em Cloud e Segurança da Informação, contribuindo com minha experiência em computação em nuvem, Blue Team e facilitação do aprendizado técnico.
 
 Atualmente: estudando AWS Developer Associate na Escola da Nuvem
             + mentorando CLF-C02 para apoiar e também reforçar meu aprendizado.
