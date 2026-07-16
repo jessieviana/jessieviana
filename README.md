@@ -10,7 +10,7 @@
 ║ ╚█████╔╝███████╗███████║███████║██║███████╗  ║
 ║  ╚════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚══════╝  ║
 ║                                              ║
-║        [ MENTOR · CLOUD · BLUE TEAM  ]       ║
+║         [ CLOUD • CYBERSEC • DATA ]          ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -19,14 +19,11 @@
 ```bash
 $ ./boot_operator.sh --user jessieviana
 
-> SYSTEM BOOT .............. [OK]
-> LOADING OPERATOR ......... jessieviana
-> CLEARANCE LEVEL .......... CLOUD AWS
-> LOCATION ................. -22.9068°S, -43.1729°W // RIO DE JANEIRO, BR
-> SPECIALTY ................ AWS · SIEM · THREAT DETECTION · LOG ANALYSIS
+> PROFILE .................. CLOUD AWS · CYBERSECURITY · DATA ENGINEERING 
+> DATA JOURNEY ............. INDICIUM PREPARATORY CYCLE
+> NEXT STAGE ............... LIGHTHOUSE TRAINEE PATH
 > MENTORSHIP ............... ACTIVE
-> THREAT LEVEL ............. ▓▓▓▓▓▓▓▓░░ CONTAINED
-> STATUS ................... ██ ONLINE
+> STATUS ................... LEARNING MODE
 ```
 
 ---
@@ -45,24 +42,28 @@ $ ./boot_operator.sh --user jessieviana
 ## `// whoami`
 
 ```
-Busco oportunidades como Instrutora Técnica ou Analista Júnior em Cloud e Segurança da Informação, contribuindo com minha experiência em computação em nuvem, Blue Team e facilitação do aprendizado técnico.
+Profissional em transição para tecnologia, construindo minha jornada em Cloud Computing, Blue Team e Engenharia de Dados. 
 
-Atualmente: estudando AWS Developer Associate na Escola da Nuvem
-            + mentorando CLF-C02 para apoiar e também reforçar meu aprendizado.
+Atualmente participo do Ciclo Preparatório para o programa Lighthouse da Indicium AI, desenvolvendo conhecimentos em Dados.
+
+Possuo certificação AWS Cloud Practitioner, estou em curso para a AWS Developer Associate, experiências práticas em equipes nas quais realizamos alguns projetos e estudos de casos (tanto em cloud quanto em security).
+
+Como Mentora Técnica AWS, ofereço apoio a iniciantes na jornada cloud, fortalecendo minha capacidade de comunicação e ensino.
 ```
 
 ---
 
-## `// cat /etc/certifications`
+## `// cat /etc/learning-path
 
 ```
-┌─────────────────────────────────────────┬────────────────────┬──────────┐
-│ CERTIFICAÇÃO                            │ PROVIDER           │ STATUS   │
-├─────────────────────────────────────────┼────────────────────┼──────────┤
-│ AWS Cloud Practitioner (CLF-C02)        │ Amazon Web Services│ ✅ PASS  │
-│ Blue Team Specialty                     │ Hackers do Bem     │ ✅ PASS  │
-│ AWS Developer Associate (DVA-C02)       │ Escola da Nuvem    │ 🔄 WIP   │
-└─────────────────────────────────────────┴────────────────────┴──────────┘
+┌──────────────────────────────────────┬──────────────────────┐
+│ ÁREA                                 │ STATUS               │
+├──────────────────────────────────────┼──────────────────────┤
+│ Data Engineering · Indicium AI       │ 🚀 EM FORMAÇÃO      │
+│ AWS Cloud Practitioner (CLF-C02)     │ ✅ CERTIFICADA      │
+│ AWS Developer Associate (DVA-C02)    │ 📚 ESTUDANDO        │
+│ Blue Team · Hackers do Bem           │ ✅ CONCLUÍDO        │
+└──────────────────────────────────────┴─────────────────────┘
 ```
 
 ---
@@ -76,12 +77,32 @@ Atualmente: estudando AWS Developer Associate na Escola da Nuvem
 ![Lambda](https://img.shields.io/badge/Lambda-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![IAM](https://img.shields.io/badge/IAM-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
+**📊 Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![GenAI](https://img.shields.io/badge/GenAI-0d1117?style=flat-square&logo=openai&logoColor=412991)
+
+**Ciclo Preparatório Lighthouse · Indicium AI** 
+*Construindo pipelines, consultas e automações com essas ferramentas.*
+
 **🛡️ Security**
 
-![SIEM](https://img.shields.io/badge/SIEM-0d1117?style=flat-square&logoColor=1a6fff&color=0d1117&labelColor=1a6fff&label=)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-0d1117?style=flat-square&color=0d1117&labelColor=1a6fff&label=)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-0d1117?style=flat-square&color=0d1117&labelColor=1a6fff&label=)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-0d1117?style=flat-square&color=0d1117&labelColor=1a6fff&label=)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows&logoColor=0078D6)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+
+**Laboratório Blue Team:**
+✓ Segmentação de rede
+✓ DNS seguro (NSD + Unbound)
+✓ Autenticação centralizada (OpenLDAP)
+✓ Automação com Ansible
+✓ Monitoramento e análise de logs com Graylog
+
 
 **⚙️ Dev**
 
@@ -95,12 +116,11 @@ Atualmente: estudando AWS Developer Associate na Escola da Nuvem
 ## `// tail -f /var/log/mentorship.log`
 
 ```
-[INFO]  Mentora voluntária · CLF-C02 · Escola da Nuvem
-[INFO]  Auxiliando quem está entrando no mundo cloud
-[INFO]  Primeira certificação AWS: missão aceita
-[WARN]  Não me chame só pra tirar dúvida de prova —
-[WARN]  me chama pra falar de arquitetura segura também ^^
-[OK]    Se você tá começando: traga suas dúvidas e curiosidades, vamos conversar e trocar conhecimento.
+[INFO] Mentora Técnica voluntária · Escola da Nuvem
+[INFO] Compartilhando conhecimento em Cloud Computing
+[INFO] Nova missão: Engenharia de Dados
+[INFO] Construindo bases para dados confiáveis e escaláveis
+[OK] Building · Learning · Sharing · Repeat
 ```
 
 ---
