@@ -6,10 +6,10 @@ Antes de tecnologia, passei anos em atendimento e vendas — o que trouxe uma ba
 
 ---
 
-**📌 Projeto em destaque**
+📌 Projeto em destaque
 
-**[LH Nautical — Desafio Lighthouse (Indicium AI Academy)](#)**
-Desafio de ponta a ponta com uma base de 24 arquivos CSV: script em Python para geração automática de schema PostgreSQL, consultas SQL para responder perguntas de negócio, modelo de previsão de demanda e sistema de recomendação de produtos. Documentado em relatório de insights e dashboard.
+Idoso+ — Painel de Monitoramento de Saúde para Idosos
+Projeto final do programa AWS re/Start + IA da Escola da Nuvem. Atuei na liderança, organização do backlog e construção da arquitetura AWS para uma solução de apoio a idosos, familiares e cuidadores.
 
 ---
 
