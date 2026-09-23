@@ -1,23 +1,12 @@
 ### Olá, sou a Jéssica 👋
 
-Estudo e aplico **Dados e Cloud** na prática, unindo SQL, Python e AWS para transformar dados brutos em decisão. Sou **AWS Certified Developer – Associate** e **AWS Certified Cloud Practitioner**, e atuo como **Mentora Técnica AWS Voluntária** na Escola da Nuvem, ajudando outras pessoas a começarem na área.
+Profissional de TI em transição de carreira, unindo uma sólida bagagem de 
+anos em atendimento corporativo e resolução de problemas, com
+desenvolvimento de conhecimentos e habilidades em **Cloud Computing, Redes e Cibersegurança**.
 
-Antes de tecnologia, passei anos em atendimento e vendas — o que trouxe uma base sólida em comunicação e resolução de conflitos, hoje aplicada em análise de dados.
+* ☁️ **Certificações Oficiais:** AWS Certified Developer – Associate & AWS Certified Cloud Practitioner.
+* 🛡️ **Segurança e Redes:** Formação em Blue Team (Hackers do Bem) e Trilha Cisco Networking Academy.
+* 💡 **Mentoria:** Atuação voluntária como Mentora Técnica AWS na Escola da Nuvem, ajudando novos alunos a alcançarem suas certificações.
+* 📊 **Tech Stack:** AWS, Python, SQL, Git/GitHub, Linux e Redes.
 
-
-**📌 Projeto em destaque**
-
-Idoso+ — Painel de Monitoramento de Saúde para Idosos
-Projeto final do programa AWS re/Start + IA da Escola da Nuvem. Atuei na liderança, organização do backlog e construção da arquitetura AWS para uma solução de apoio a idosos, familiares e cuidadores.
-
-
-
-**🧰 Stack**
-
-`SQL` `Python` `PostgreSQL` `AWS` `Git`
-
-
-
-**📫 Contato**
-
-[LinkedIn](https://linkedin.com/in/jessieviana) · [E-mail](mailto:jessicavylia@gmail.com)
+📫 Vamos nos conectar? [LinkedIn](https://linkedin.com/in/jessieviana) | [Credly](https://www.credly.com/users/jessieviana)
