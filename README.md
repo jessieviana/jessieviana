@@ -32,7 +32,7 @@
 
 Minha experiência profissional vem de **atendimento, vendas e suporte técnico remoto**, áreas que me deram uma base forte em **comunicação, resolução de problemas e entendimento das necessidades das pessoas**.
 
-Hoje, direciono essa experiência para a tecnologia por meio de **estudos, certificações, projetos e experiências práticas** em Cloud e Cibersegurança, unindo esses conhecimentos ao meu objetivo de atuar com **Segurança em Nuvem**.
+Hoje, direciono essa experiência para a tecnologia por meio de estudos, certificações, projetos e experiências práticas em Cloud e segurança, unindo esses conhecimentos ao meu objetivo de atuar com Segurança em Nuvem.**.
 
 ---
 
