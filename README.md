@@ -9,31 +9,31 @@
 <img src="assets/h-whoami.svg" alt="// whoami" width="100%">
 
 ```
-Vim do atendimento ao cliente e do ensino, e hoje construo carreira em nuvem
-e cibersegurança. Conheço o contact center por dentro, e é por isso que quero
-construir (e proteger) o que roda por trás dele.
+Vim do atendimento ao cliente (SAC e Vendas) e do ensino, e hoje construo carreira em nuvem e cibersegurança. 
+Conheço o contact center por dentro, e é agora quero construir (e proteger) o que roda por trás dele.
 
-Certificada AWS (Developer Associate e Cloud Practitioner), 320h de
-cibersegurança no Hackers do Bem (Blue Team) e em formação em Amazon Connect
-na Escola da Nuvem.
+Certificada AWS (Developer Associate e Cloud Practitioner), 320h de cibersegurança no Hackers do Bem (Blue Team) 
+e em formação em Amazon Connect na Escola da Nuvem.
 
-Busco minha primeira oportunidade: Amazon Connect (desenvolvimento ou
-sustentação) ou CloudOps. Meu objetivo de longo prazo é Segurança em Nuvem.
+Busco minha primeira oportunidade: Amazon Connect (desenvolvimento ou sustentação) / CloudOps. 
+Meu objetivo de longo prazo é Segurança em Nuvem e instrutoria.
 ```
 
-**EN —** Customer-service background turned cloud developer. AWS Certified Developer – Associate and Cloud Practitioner, Blue Team training (320h), currently learning Amazon Connect. Looking for a first role in Amazon Connect (development or support) or CloudOps, with a long-term goal in Cloud Security.
+**EN —** Customer-service background turned cloud developer. AWS Certified Developer – Associate and Cloud Practitioner, Blue Team training (320h), currently learning Amazon Connect. Looking for a first role in Amazon Connect (development or administrator) / CloudOps, with a long-term goal in Cloud Security.
 
 <img src="assets/h-projects.svg" alt="// ls ~/projects" width="100%">
 
-<p align="center">
-  <a href="https://github.com/jessieviana/blue-team-lab"><img src="assets/card-blue-team-lab.svg" alt="blue-team-lab: infraestrutura corporativa simulada e segura com alertas de login SSH no Graylog" width="320"></a>
-</p>
+<table>
+  <tr>
+    <td width="33%"><a href="https://github.com/jessieviana/idosomais"><img src="assets/card-idoso-plus.svg" alt="idoso-plus: painel de saúde para idosos com voz e IA, projeto final em equipe na Escola da Nuvem (concluído)" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/jessieviana/lab-jogo-adivinhacao-aws-serverless"><img src="assets/card-jogo-adivinhacao.svg" alt="lab-jogo-adivinhacao: jogo de adivinhação serverless com S3, API Gateway e Lambda em Python (concluído)" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/jessieviana/blue-team-lab"><img src="assets/card-blue-team-lab.svg" alt="blue-team-lab: infraestrutura corporativa simulada e segura com alertas de login SSH no Graylog (a publicar)" width="100%"></a></td>
+  </tr>
+</table>
+
+Também em equipe: **Nova Solutions** (arquitetura AWS de controle de consumo por parceiros).
 
 **Em breve:** projeto em equipe da formação em Amazon Connect (Escola da Nuvem), que vou documentar aqui assim que for concluído.
-
-Também em equipe, na Escola da Nuvem: **Idoso+** (MVP serverless de painel de saúde com Transcribe, Lex, Comprehend Medical, Polly e Bedrock) e **Nova Solutions** (arquitetura AWS de controle de consumo por parceiros).
-
-Todo projeto segue o mesmo roteiro: problema · diagrama · como rodar · custo estimado · como desmontar · o que aprendi.
 
 <img src="assets/h-path.svg" alt="// learning-path" width="100%">
 
@@ -44,7 +44,7 @@ Todo projeto segue o mesmo roteiro: problema · diagrama · como rodar · custo 
 │ AWS Developer Associate (DVA-C02)    │ ✓ CERTIFICADA        │
 │ AWS Cloud Practitioner (CLF-C02)     │ ✓ CERTIFICADA        │
 │ Amazon Connect · Escola da Nuvem     │ >> EM FORMAÇÃO       │
-│ Blue Team · Hackers do Bem           │ ✓ CONCLUÍDO          │
+│ Cibersegurança · Hackers do Bem      │ ✓ CONCLUÍDO          │
 └──────────────────────────────────────┴──────────────────────┘
 ```
 
