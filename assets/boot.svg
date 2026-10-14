@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 276" width="800" height="276" role="img" aria-label="Terminal: perfil Cloud AWS, Amazon Connect e Cibersegurança; Developer Associate e Cloud Practitioner; aprendendo Amazon Connect; aberta a oportunidades remotas ou híbridas; admin da Gotham Tech Community">
+  <title>boot_operator.sh</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070a12"/>
+      <stop offset="1" stop-color="#120a1d"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1a6fff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity="0.22"/></pattern>
+  </defs>
+  <style>
+    .g1 { animation: gl1 5s steps(1, end) infinite; mix-blend-mode: screen; }
+    .g2 { animation: gl2 5s steps(1, end) infinite; mix-blend-mode: screen; }
+    .main { animation: fl 5s steps(1, end) infinite; }
+    .cur { animation: bl 1s steps(1, end) infinite; }
+    @keyframes gl1 {
+      0%, 84% { transform: translate(-1.5px, 0); clip-path: inset(0 0 0 0); }
+      85% { transform: translate(-7px, 1px); clip-path: inset(10% 0 60% 0); }
+      87% { transform: translate(6px, -2px); clip-path: inset(55% 0 12% 0); }
+      89% { transform: translate(-4px, 2px); clip-path: inset(30% 0 40% 0); }
+      91% { transform: translate(3px, 0); clip-path: inset(68% 0 6% 0); }
+      93%, 100% { transform: translate(-1.5px, 0); clip-path: inset(0 0 0 0); }
+    }
+    @keyframes gl2 {
+      0%, 84% { transform: translate(1.5px, 0); clip-path: inset(0 0 0 0); }
+      85% { transform: translate(7px, -1px); clip-path: inset(58% 0 10% 0); }
+      87% { transform: translate(-6px, 2px); clip-path: inset(14% 0 56% 0); }
+      89% { transform: translate(5px, -2px); clip-path: inset(42% 0 28% 0); }
+      91% { transform: translate(-3px, 0); clip-path: inset(6% 0 74% 0); }
+      93%, 100% { transform: translate(1.5px, 0); clip-path: inset(0 0 0 0); }
+    }
+    @keyframes fl {
+      0%, 89% { opacity: 1; }
+      90% { opacity: 0.75; }
+      91% { opacity: 1; }
+      92% { opacity: 0.6; }
+      93%, 100% { opacity: 1; }
+    }
+    @keyframes bl {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+@keyframes ty { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect x="2" y="2" width="796" height="272" rx="8" fill="url(#bg)" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="2" y="2" width="796" height="272" rx="8" fill="url(#grid)"/>
+  <rect x="2" y="2" width="796" height="32" rx="8" fill="#0d1424"/>
+  <rect x="2" y="24" width="796" height="10" fill="#0d1424"/>
+  <circle cx="24" cy="18" r="5" fill="#ff2bd6"/>
+  <circle cx="44" cy="18" r="5" fill="#00e5ff"/>
+  <circle cx="64" cy="18" r="5" fill="#8b5cf6"/>
+  <text x="400" y="22" text-anchor="middle" font-size="12" fill="#9fb3d9" font-family="Courier New, Courier, monospace">jessieviana@cloud-defender: ~</text>
+  <text x="24" y="66" font-size="15" font-family="Courier New, Courier, monospace" xml:space="preserve" style="animation: ty 0.7s steps(39, end) 0.6s both"><tspan fill="#ff2bd6">$ </tspan><tspan fill="#ffffff">./boot_operator.sh --user jessieviana</tspan></text>
+  <text x="24" y="92" font-size="15" font-family="Courier New, Courier, monospace" xml:space="preserve" style="animation: ty 1.28s steps(71, end) 1.5s both"><tspan fill="#ff2bd6">> </tspan><tspan fill="#00e5ff">PROFILE </tspan><tspan fill="#4b5a7a">.................. </tspan><tspan fill="#ffffff">CLOUD AWS · AMAZON CONNECT · CYBERSECURITY</tspan></text>
+  <text x="24" y="118" font-size="15" font-family="Courier New, Courier, monospace" xml:space="preserve" style="animation: ty 1.24s steps(69, end) 2.98s both"><tspan fill="#ff2bd6">> </tspan><tspan fill="#00e5ff">CERTIFICATIONS </tspan><tspan fill="#4b5a7a">........... </tspan><tspan fill="#ffffff">DEVELOPER ASSOCIATE · CLOUD PRACTITIONER</tspan></text>
+  <text x="24" y="144" font-size="15" font-family="Courier New, Courier, monospace" xml:space="preserve" style="animation: ty 0.77s steps(43, end) 4.42s both"><tspan fill="#ff2bd6">> </tspan><tspan fill="#00e5ff">NOW LEARNING </tspan><tspan fill="#4b5a7a">............. </tspan><tspan fill="#ffffff">AMAZON CONNECT</tspan></text>
+  <text x="24" y="170" font-size="15" font-family="Courier New, Courier, monospace" xml:space="preserve" style="animation: ty 0.97s steps(54, end) 5.39s both"><tspan fill="#ff2bd6">> </tspan><tspan fill="#00e5ff">OPEN TO WORK </tspan><tspan fill="#4b5a7a">............. </tspan><tspan fill="#ffffff">REMOTO · HÍBRIDO · BRASIL</tspan></text>
+  <text x="24" y="196" font-size="15" font-family="Courier New, Courier, monospace" xml:space="preserve" style="animation: ty 0.86s steps(48, end) 6.56s both"><tspan fill="#ff2bd6">> </tspan><tspan fill="#00e5ff">COMMUNITY </tspan><tspan fill="#4b5a7a">................ </tspan><tspan fill="#ffffff">GOTHAM TECH · ADMIN</tspan></text>
+  <text x="24" y="222" font-size="15" font-family="Courier New, Courier, monospace" xml:space="preserve" style="animation: ty 0.63s steps(35, end) 7.62s both"><tspan fill="#ff2bd6">> </tspan><tspan fill="#00e5ff">STATUS </tspan><tspan fill="#4b5a7a">................... </tspan><tspan fill="#39ff88">ONLINE</tspan></text>
+  <text x="24" y="254" font-size="15" font-family="Courier New, Courier, monospace" xml:space="preserve" style="animation: ty 0.6s steps(30, end) 8.45s both"><tspan fill="#00e5ff">jessieviana@cloud-defender:~$ </tspan><tspan class="cur" fill="#ffffff">█</tspan></text>
+  <rect x="2" y="2" width="796" height="272" rx="8" fill="url(#scan)"/>
+</svg>

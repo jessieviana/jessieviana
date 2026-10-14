@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Gotham Tech Community — comunidade de tecnologia liderada por mulheres. Entrar no canal do WhatsApp.">
+  <title>Gotham Tech Community — comunidade de tecnologia liderada por mulheres</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#190b26"/>
+    </linearGradient>
+    <radialGradient id="glowM" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff2bd6" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1a6fff" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity="0.22"/>
+    </pattern>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00e5ff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <text id="ttl" x="500" y="90" text-anchor="middle" font-size="46" font-weight="700" letter-spacing="4" font-family="Courier New, Courier, monospace">GOTHAM TECH COMMUNITY</text>
+  </defs>
+  <style>
+    .g1 { animation: gl1 6.3s steps(1, end) infinite; mix-blend-mode: screen; }
+    .g2 { animation: gl2 6.3s steps(1, end) infinite; mix-blend-mode: screen; }
+    .main { animation: fl 6.3s steps(1, end) infinite; }
+    .wa { animation: fk 3.7s linear infinite; }
+    .wb { animation: fk 5.3s linear infinite -1.6s; }
+    .cur { animation: bl 1s steps(1, end) infinite; }
+    .sweep { animation: sw 5s linear infinite; }
+    .btn { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes gl1 {
+      0%, 84% { transform: translate(-2px, 0); clip-path: inset(0 0 0 0); }
+      85% { transform: translate(-8px, 1px); clip-path: inset(10% 0 60% 0); }
+      87% { transform: translate(7px, -2px); clip-path: inset(55% 0 12% 0); }
+      89% { transform: translate(-5px, 2px); clip-path: inset(30% 0 40% 0); }
+      91% { transform: translate(4px, 0); clip-path: inset(68% 0 6% 0); }
+      93%, 100% { transform: translate(-2px, 0); clip-path: inset(0 0 0 0); }
+    }
+    @keyframes gl2 {
+      0%, 84% { transform: translate(2px, 0); clip-path: inset(0 0 0 0); }
+      85% { transform: translate(8px, -1px); clip-path: inset(58% 0 10% 0); }
+      87% { transform: translate(-7px, 2px); clip-path: inset(14% 0 56% 0); }
+      89% { transform: translate(6px, -2px); clip-path: inset(42% 0 28% 0); }
+      91% { transform: translate(-4px, 0); clip-path: inset(6% 0 74% 0); }
+      93%, 100% { transform: translate(2px, 0); clip-path: inset(0 0 0 0); }
+    }
+    @keyframes fl {
+      0%, 89% { opacity: 1; }
+      90% { opacity: 0.75; }
+      91% { opacity: 1; }
+      92% { opacity: 0.6; }
+      93%, 100% { opacity: 1; }
+    }
+    @keyframes fk {
+      0%, 100% { opacity: 0.95; }
+      38% { opacity: 0.95; }
+      40% { opacity: 0.15; }
+      43% { opacity: 0.9; }
+      68% { opacity: 0.9; }
+      70% { opacity: 0.25; }
+      72% { opacity: 0.95; }
+    }
+    @keyframes bl {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes sw {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(270px); }
+    }
+    @keyframes pulse {
+      0%, 100% { stroke-opacity: 0.45; fill-opacity: 0.05; }
+      50% { stroke-opacity: 1; fill-opacity: 0.14; }
+    }
+    @keyframes rainfall { from { transform: translate(0, -60px); } to { transform: translate(-30px, 260px); } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .rain { display: none; }
+    }
+  </style>
+
+  <rect width="1000" height="200" fill="url(#bg)"/>
+  <rect width="1000" height="200" fill="url(#grid)"/>
+  <ellipse cx="160" cy="40" rx="300" ry="120" fill="url(#glowM)"/>
+  <ellipse cx="860" cy="30" rx="280" ry="110" fill="url(#glowC)"/>
+
+  <!-- skyline nas laterais -->
+  <g fill="#070a12" stroke="#1b2644" stroke-width="1">
+    <rect x="0" y="95" width="60" height="105"/>
+    <rect x="60" y="130" width="50" height="70"/>
+    <rect x="110" y="155" width="60" height="45"/>
+    <rect x="830" y="150" width="60" height="50"/>
+    <rect x="890" y="115" width="55" height="85"/>
+    <rect x="945" y="85" width="55" height="115"/>
+  </g>
+  <g class="cur" fill="#ff2bd6">
+    <circle cx="30" cy="87" r="2.5"/>
+    <circle cx="972" cy="77" r="2.5"/>
+  </g>
+  <g stroke="#1b2644" stroke-width="2">
+    <line x1="30" y1="95" x2="30" y2="89"/>
+    <line x1="972" y1="85" x2="972" y2="79"/>
+  </g>
+  <g class="wa" fill="#00e5ff">
+    <rect x="10" y="112" width="6" height="8"/><rect x="32" y="112" width="6" height="8"/><rect x="20" y="138" width="6" height="8"/><rect x="42" y="164" width="6" height="8"/>
+    <rect x="954" y="102" width="6" height="8"/><rect x="976" y="102" width="6" height="8"/><rect x="964" y="128" width="6" height="8"/><rect x="984" y="156" width="6" height="8"/>
+  </g>
+  <g class="wb" fill="#ff2bd6">
+    <rect x="72" y="146" width="6" height="8"/><rect x="92" y="166" width="6" height="8"/><rect x="124" y="170" width="6" height="8"/>
+    <rect x="842" y="164" width="6" height="8"/><rect x="900" y="132" width="6" height="8"/><rect x="924" y="156" width="6" height="8"/>
+  </g>
+
+  <g class="rain" fill="none" stroke-width="1">
+    <line x1="473" y1="0" x2="470" y2="31" stroke="#ff2bd6" stroke-opacity="0.32" style="animation: rainfall 1.92s linear infinite -2.57s"/>
+    <line x1="833" y1="0" x2="830" y2="30" stroke="#ff2bd6" stroke-opacity="0.28" style="animation: rainfall 2.21s linear infinite -2.38s"/>
+    <line x1="320" y1="0" x2="317" y2="18" stroke="#00e5ff" stroke-opacity="0.47" style="animation: rainfall 2.06s linear infinite -2.67s"/>
+    <line x1="619" y1="0" x2="616" y2="26" stroke="#ff2bd6" stroke-opacity="0.31" style="animation: rainfall 2.25s linear infinite -1.85s"/>
+    <line x1="25" y1="0" x2="22" y2="30" stroke="#00e5ff" stroke-opacity="0.33" style="animation: rainfall 1.3s linear infinite -0.57s"/>
+    <line x1="40" y1="0" x2="37" y2="38" stroke="#ff2bd6" stroke-opacity="0.32" style="animation: rainfall 1.72s linear infinite -1.77s"/>
+    <line x1="249" y1="0" x2="246" y2="34" stroke="#ff2bd6" stroke-opacity="0.41" style="animation: rainfall 2.0s linear infinite -1.99s"/>
+    <line x1="294" y1="0" x2="291" y2="27" stroke="#00e5ff" stroke-opacity="0.5" style="animation: rainfall 2.79s linear infinite -2.52s"/>
+    <line x1="332" y1="0" x2="329" y2="38" stroke="#00e5ff" stroke-opacity="0.45" style="animation: rainfall 2.02s linear infinite -0.09s"/>
+    <line x1="120" y1="0" x2="117" y2="26" stroke="#00e5ff" stroke-opacity="0.59" style="animation: rainfall 2.55s linear infinite -1.16s"/>
+    <line x1="877" y1="0" x2="874" y2="35" stroke="#00e5ff" stroke-opacity="0.27" style="animation: rainfall 1.54s linear infinite -2.78s"/>
+    <line x1="394" y1="0" x2="391" y2="36" stroke="#ff2bd6" stroke-opacity="0.32" style="animation: rainfall 1.87s linear infinite -1.7s"/>
+    <line x1="701" y1="0" x2="698" y2="22" stroke="#ff2bd6" stroke-opacity="0.59" style="animation: rainfall 1.34s linear infinite -1.0s"/>
+    <line x1="786" y1="0" x2="783" y2="17" stroke="#00e5ff" stroke-opacity="0.27" style="animation: rainfall 1.59s linear infinite -0.3s"/>
+    <line x1="826" y1="0" x2="823" y2="29" stroke="#00e5ff" stroke-opacity="0.43" style="animation: rainfall 2.29s linear infinite -0.57s"/>
+    <line x1="759" y1="0" x2="756" y2="38" stroke="#00e5ff" stroke-opacity="0.39" style="animation: rainfall 1.87s linear infinite -1.15s"/>
+    <line x1="227" y1="0" x2="224" y2="14" stroke="#ff2bd6" stroke-opacity="0.46" style="animation: rainfall 2.58s linear infinite -2.92s"/>
+    <line x1="916" y1="0" x2="913" y2="14" stroke="#00e5ff" stroke-opacity="0.46" style="animation: rainfall 1.5s linear infinite -2.99s"/>
+    <line x1="600" y1="0" x2="597" y2="17" stroke="#00e5ff" stroke-opacity="0.34" style="animation: rainfall 2.78s linear infinite -0.64s"/>
+    <line x1="801" y1="0" x2="798" y2="33" stroke="#ff2bd6" stroke-opacity="0.28" style="animation: rainfall 2.53s linear infinite -1.16s"/>
+    <line x1="223" y1="0" x2="220" y2="32" stroke="#00e5ff" stroke-opacity="0.38" style="animation: rainfall 1.59s linear infinite -1.8s"/>
+    <line x1="474" y1="0" x2="471" y2="18" stroke="#00e5ff" stroke-opacity="0.55" style="animation: rainfall 1.97s linear infinite -1.72s"/>
+  </g>
+  <use href="#ttl" class="g1" fill="#00e5ff"/>
+  <use href="#ttl" class="g2" fill="#ff2bd6"/>
+  <use href="#ttl" class="main" fill="#ffffff"/>
+
+  <text x="500" y="122" text-anchor="middle" font-size="14" letter-spacing="4" fill="#9fb3d9" font-family="Courier New, Courier, monospace">COMUNIDADE DE TECNOLOGIA LIDERADA POR MULHERES</text>
+
+  <rect class="btn" x="370" y="141" width="260" height="38" rx="4" fill="#00e5ff" fill-opacity="0.05" stroke="#00e5ff" stroke-width="1.5"/>
+  <text x="500" y="165" text-anchor="middle" font-size="15" letter-spacing="2" fill="#00e5ff" font-family="Courier New, Courier, monospace">&gt; ENTRAR NO CANAL<tspan class="cur">_</tspan></text>
+
+  <g fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="2">
+    <path d="M20 40V14H46"/>
+    <path d="M954 14H980V40"/>
+  </g>
+
+  <rect width="1000" height="200" fill="url(#scan)"/>
+  <rect class="sweep" x="0" y="-60" width="1000" height="60" fill="url(#bar)"/>
+</svg>

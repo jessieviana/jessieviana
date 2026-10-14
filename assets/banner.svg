@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Jéssica Viana — Cloud, Amazon Connect e Segurança">
+  <title>Jéssica Viana — Cloud, Amazon Connect e Segurança</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#190b26"/>
+    </linearGradient>
+    <radialGradient id="glowM" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff2bd6" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1a6fff" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity="0.22"/>
+    </pattern>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00e5ff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <text id="ttl" x="500" y="168" text-anchor="middle" font-size="60" font-weight="700" letter-spacing="6" font-family="Courier New, Courier, monospace">JÉSSICA VIANA</text>
+  </defs>
+  <style>
+    .g1 { animation: gl1 5s steps(1, end) infinite; mix-blend-mode: screen; }
+    .g2 { animation: gl2 5s steps(1, end) infinite; mix-blend-mode: screen; }
+    .main { animation: fl 7s steps(1, end) infinite; }
+    .wa { animation: fk 3.3s linear infinite; }
+    .wb { animation: fk 4.7s linear infinite -1.2s; }
+    .wc { animation: fk 6.1s linear infinite -2.6s; }
+    .cur { animation: bl 1s steps(1, end) infinite; }
+    .sweep { animation: sw 6s linear infinite; }
+    .cloud { animation: fc 6s ease-in-out infinite alternate; }
+    @keyframes gl1 {
+      0%, 88% { transform: translate(-2px, 0); clip-path: inset(0 0 0 0); }
+      89% { transform: translate(-9px, 1px); clip-path: inset(8% 0 62% 0); }
+      91% { transform: translate(7px, -2px); clip-path: inset(52% 0 14% 0); }
+      93% { transform: translate(-5px, 2px); clip-path: inset(28% 0 42% 0); }
+      95% { transform: translate(4px, 0); clip-path: inset(70% 0 5% 0); }
+      97%, 100% { transform: translate(-2px, 0); clip-path: inset(0 0 0 0); }
+    }
+    @keyframes gl2 {
+      0%, 88% { transform: translate(2px, 0); clip-path: inset(0 0 0 0); }
+      89% { transform: translate(8px, -1px); clip-path: inset(60% 0 10% 0); }
+      91% { transform: translate(-7px, 2px); clip-path: inset(12% 0 58% 0); }
+      93% { transform: translate(6px, -2px); clip-path: inset(40% 0 30% 0); }
+      95% { transform: translate(-4px, 0); clip-path: inset(5% 0 75% 0); }
+      97%, 100% { transform: translate(2px, 0); clip-path: inset(0 0 0 0); }
+    }
+    @keyframes fl {
+      0%, 93% { opacity: 1; }
+      94% { opacity: 0.75; }
+      95% { opacity: 1; }
+      96% { opacity: 0.6; }
+      97%, 100% { opacity: 1; }
+    }
+    @keyframes fk {
+      0%, 100% { opacity: 0.95; }
+      38% { opacity: 0.95; }
+      40% { opacity: 0.15; }
+      43% { opacity: 0.9; }
+      68% { opacity: 0.9; }
+      70% { opacity: 0.25; }
+      72% { opacity: 0.95; }
+    }
+    @keyframes bl {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes sw {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(400px); }
+    }
+    @keyframes fc {
+      from { transform: translateY(0); }
+      to { transform: translateY(-5px); }
+    }
+    @keyframes rainfall { from { transform: translate(0, -60px); } to { transform: translate(-30px, 380px); } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .rain { display: none; }
+    }
+  </style>
+
+  <rect width="1000" height="320" fill="url(#bg)"/>
+  <rect width="1000" height="320" fill="url(#grid)"/>
+  <ellipse cx="150" cy="60" rx="300" ry="150" fill="url(#glowM)"/>
+  <ellipse cx="880" cy="40" rx="280" ry="140" fill="url(#glowC)"/>
+
+  <!-- skyline -->
+  <g fill="#070a12" stroke="#1b2644" stroke-width="1">
+    <rect x="0" y="120" width="80" height="200"/>
+    <rect x="80" y="170" width="55" height="150"/>
+    <rect x="135" y="210" width="75" height="110"/>
+    <rect x="210" y="160" width="60" height="160"/>
+    <rect x="270" y="240" width="80" height="80"/>
+    <rect x="350" y="225" width="70" height="95"/>
+    <rect x="420" y="250" width="80" height="70"/>
+    <rect x="500" y="230" width="70" height="90"/>
+    <rect x="570" y="245" width="80" height="75"/>
+    <rect x="650" y="190" width="60" height="130"/>
+    <rect x="710" y="150" width="70" height="170"/>
+    <rect x="780" y="205" width="60" height="115"/>
+    <rect x="840" y="135" width="70" height="185"/>
+    <rect x="910" y="180" width="90" height="140"/>
+  </g>
+  <g stroke="#1b2644" stroke-width="2">
+    <line x1="40" y1="120" x2="40" y2="96"/>
+    <line x1="875" y1="135" x2="875" y2="110"/>
+  </g>
+  <g class="cur" fill="#ff2bd6">
+    <circle cx="40" cy="94" r="2.5"/>
+    <circle cx="875" cy="108" r="2.5"/>
+  </g>
+
+  <!-- janelas -->
+  <g class="wa" fill="#00e5ff">
+    <rect x="12" y="140" width="6" height="8"/><rect x="34" y="140" width="6" height="8"/><rect x="56" y="140" width="6" height="8"/>
+    <rect x="20" y="168" width="6" height="8"/><rect x="46" y="168" width="6" height="8"/><rect x="66" y="196" width="6" height="8"/>
+    <rect x="14" y="224" width="6" height="8"/><rect x="38" y="252" width="6" height="8"/>
+    <rect x="660" y="205" width="6" height="8"/><rect x="682" y="205" width="6" height="8"/><rect x="670" y="232" width="6" height="8"/><rect x="692" y="258" width="6" height="8"/>
+    <rect x="852" y="150" width="6" height="8"/><rect x="874" y="150" width="6" height="8"/><rect x="894" y="174" width="6" height="8"/>
+    <rect x="858" y="200" width="6" height="8"/><rect x="882" y="226" width="6" height="8"/><rect x="850" y="252" width="6" height="8"/>
+  </g>
+  <g class="wb" fill="#ff2bd6">
+    <rect x="92" y="185" width="6" height="8"/><rect x="112" y="185" width="6" height="8"/><rect x="100" y="212" width="6" height="8"/><rect x="120" y="240" width="6" height="8"/>
+    <rect x="220" y="175" width="6" height="8"/><rect x="240" y="175" width="6" height="8"/><rect x="256" y="198" width="6" height="8"/>
+    <rect x="224" y="224" width="6" height="8"/><rect x="246" y="250" width="6" height="8"/>
+    <rect x="792" y="220" width="6" height="8"/><rect x="814" y="220" width="6" height="8"/><rect x="802" y="247" width="6" height="8"/><rect x="824" y="270" width="6" height="8"/>
+  </g>
+  <g class="wc" fill="#6a8cff">
+    <rect x="146" y="225" width="6" height="8"/><rect x="168" y="225" width="6" height="8"/><rect x="190" y="225" width="6" height="8"/><rect x="154" y="252" width="6" height="8"/>
+    <rect x="722" y="165" width="6" height="8"/><rect x="744" y="165" width="6" height="8"/><rect x="764" y="188" width="6" height="8"/>
+    <rect x="728" y="214" width="6" height="8"/><rect x="752" y="240" width="6" height="8"/>
+    <rect x="922" y="195" width="6" height="8"/><rect x="946" y="195" width="6" height="8"/><rect x="972" y="195" width="6" height="8"/>
+    <rect x="932" y="222" width="6" height="8"/><rect x="960" y="248" width="6" height="8"/>
+  </g>
+
+  <g class="rain" fill="none" stroke-width="1">
+    <line x1="341" y1="0" x2="338" y2="18" stroke="#ff2bd6" stroke-opacity="0.44" style="animation: rainfall 2.24s linear infinite -0.22s"/>
+    <line x1="384" y1="0" x2="381" y2="32" stroke="#00e5ff" stroke-opacity="0.28" style="animation: rainfall 2.66s linear infinite -0.64s"/>
+    <line x1="438" y1="0" x2="435" y2="16" stroke="#00e5ff" stroke-opacity="0.54" style="animation: rainfall 1.35s linear infinite -1.27s"/>
+    <line x1="136" y1="0" x2="133" y2="21" stroke="#00e5ff" stroke-opacity="0.45" style="animation: rainfall 2.2s linear infinite -2.84s"/>
+    <line x1="416" y1="0" x2="413" y2="15" stroke="#00e5ff" stroke-opacity="0.35" style="animation: rainfall 1.27s linear infinite -2.58s"/>
+    <line x1="157" y1="0" x2="154" y2="31" stroke="#00e5ff" stroke-opacity="0.49" style="animation: rainfall 2.11s linear infinite -1.68s"/>
+    <line x1="115" y1="0" x2="112" y2="32" stroke="#00e5ff" stroke-opacity="0.44" style="animation: rainfall 2.22s linear infinite -1.12s"/>
+    <line x1="74" y1="0" x2="71" y2="32" stroke="#00e5ff" stroke-opacity="0.44" style="animation: rainfall 2.19s linear infinite -1.49s"/>
+    <line x1="805" y1="0" x2="802" y2="24" stroke="#ff2bd6" stroke-opacity="0.35" style="animation: rainfall 2.14s linear infinite -1.36s"/>
+    <line x1="823" y1="0" x2="820" y2="19" stroke="#00e5ff" stroke-opacity="0.36" style="animation: rainfall 2.45s linear infinite -0.25s"/>
+    <line x1="516" y1="0" x2="513" y2="24" stroke="#00e5ff" stroke-opacity="0.28" style="animation: rainfall 1.92s linear infinite -1.83s"/>
+    <line x1="534" y1="0" x2="531" y2="27" stroke="#00e5ff" stroke-opacity="0.42" style="animation: rainfall 2.41s linear infinite -0.46s"/>
+    <line x1="50" y1="0" x2="47" y2="35" stroke="#00e5ff" stroke-opacity="0.56" style="animation: rainfall 2.42s linear infinite -1.72s"/>
+    <line x1="331" y1="0" x2="328" y2="24" stroke="#00e5ff" stroke-opacity="0.53" style="animation: rainfall 1.76s linear infinite -1.49s"/>
+    <line x1="80" y1="0" x2="77" y2="16" stroke="#ff2bd6" stroke-opacity="0.27" style="animation: rainfall 1.96s linear infinite -1.99s"/>
+    <line x1="728" y1="0" x2="725" y2="23" stroke="#00e5ff" stroke-opacity="0.41" style="animation: rainfall 2.12s linear infinite -2.04s"/>
+    <line x1="743" y1="0" x2="740" y2="26" stroke="#00e5ff" stroke-opacity="0.37" style="animation: rainfall 1.76s linear infinite -2.82s"/>
+    <line x1="635" y1="0" x2="632" y2="17" stroke="#ff2bd6" stroke-opacity="0.3" style="animation: rainfall 1.29s linear infinite -2.3s"/>
+    <line x1="263" y1="0" x2="260" y2="26" stroke="#ff2bd6" stroke-opacity="0.31" style="animation: rainfall 2.67s linear infinite -1.49s"/>
+    <line x1="421" y1="0" x2="418" y2="31" stroke="#ff2bd6" stroke-opacity="0.55" style="animation: rainfall 2.61s linear infinite -2.46s"/>
+    <line x1="295" y1="0" x2="292" y2="36" stroke="#ff2bd6" stroke-opacity="0.38" style="animation: rainfall 2.78s linear infinite -2.05s"/>
+    <line x1="246" y1="0" x2="243" y2="18" stroke="#00e5ff" stroke-opacity="0.33" style="animation: rainfall 1.48s linear infinite -0.7s"/>
+    <line x1="506" y1="0" x2="503" y2="32" stroke="#00e5ff" stroke-opacity="0.4" style="animation: rainfall 1.62s linear infinite -0.01s"/>
+    <line x1="388" y1="0" x2="385" y2="33" stroke="#00e5ff" stroke-opacity="0.55" style="animation: rainfall 1.71s linear infinite -0.38s"/>
+    <line x1="983" y1="0" x2="980" y2="33" stroke="#00e5ff" stroke-opacity="0.56" style="animation: rainfall 2.28s linear infinite -0.16s"/>
+    <line x1="808" y1="0" x2="805" y2="35" stroke="#00e5ff" stroke-opacity="0.29" style="animation: rainfall 1.83s linear infinite -1.2s"/>
+    <line x1="659" y1="0" x2="656" y2="26" stroke="#00e5ff" stroke-opacity="0.4" style="animation: rainfall 1.5s linear infinite -2.95s"/>
+    <line x1="122" y1="0" x2="119" y2="24" stroke="#00e5ff" stroke-opacity="0.3" style="animation: rainfall 1.28s linear infinite -0.0s"/>
+  </g>
+  <!-- nuvem -->
+  <g class="cloud">
+    <g fill="#1a2340" fill-opacity="0.85" stroke="#2a3a6a" stroke-width="1">
+      <circle cx="468" cy="62" r="20"/>
+      <circle cx="500" cy="50" r="26"/>
+      <circle cx="534" cy="62" r="20"/>
+    </g>
+    <rect x="466" y="60" width="70" height="22" fill="#1a2340" fill-opacity="0.85"/>
+    <text x="500" y="68" text-anchor="middle" font-size="22" font-weight="700" fill="#00e5ff" font-family="Courier New, Courier, monospace">&lt;/&gt;</text>
+  </g>
+
+  <!-- título com glitch -->
+  <use href="#ttl" class="g1" fill="#00e5ff"/>
+  <use href="#ttl" class="g2" fill="#ff2bd6"/>
+  <use href="#ttl" class="main" fill="#ffffff"/>
+
+  <text x="500" y="208" text-anchor="middle" font-size="17" fill="#00e5ff" font-family="Courier New, Courier, monospace">jessieviana@cloud-defender:~$ ./cloud --connect --security<tspan class="cur">█</tspan></text>
+  <text x="500" y="244" text-anchor="middle" font-size="13" letter-spacing="4" fill="#9fb3d9" font-family="Courier New, Courier, monospace">AWS CERTIFIED DEVELOPER · CLOUD PRACTITIONER · CONNECT (EM FORMAÇÃO)</text>
+
+  <!-- HUD -->
+  <g fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="2">
+    <path d="M20 50V20H50"/>
+    <path d="M950 20H980V50"/>
+    <path d="M20 270V300H50"/>
+    <path d="M950 300H980V270"/>
+  </g>
+
+  <rect width="1000" height="320" fill="url(#scan)"/>
+  <rect class="sweep" x="0" y="-70" width="1000" height="70" fill="url(#bar)"/>
+</svg>
