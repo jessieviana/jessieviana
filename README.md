@@ -1,124 +1,84 @@
-<div align="center">
-
-# Olá, eu sou a Jéssica Viana 👋
-
-### ☁️ Construindo minha trajetória em **Segurança em Nuvem**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Developer Associate" />
-  <img src="https://img.shields.io/badge/Blue%20Team-Hackers%20do%20Bem-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Blue Team" />
+<p align="center">
+  <img src="assets/banner.svg" alt="Jéssica Viana — Cloud, Amazon Connect e Segurança" width="100%">
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-re%2FStart%20Graduate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS re/Start Graduate" />
-  <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Junior Cybersecurity Analyst" />
+<p align="center">
+  <img src="assets/boot.svg" alt="Terminal: perfil Cloud AWS, Amazon Connect e Cibersegurança; Developer Associate e Cloud Practitioner; aprendendo Amazon Connect; aberta a oportunidades remotas ou híbridas; admin da Gotham Tech Community" width="100%">
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/jessieviana">
-    <img src="https://img.shields.io/badge/LinkedIn-jessieviana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.credly.com/users/jessieviana">
-    <img src="https://img.shields.io/badge/Credly-Certificações-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
-  </a>
+<img src="assets/h-whoami.svg" alt="// whoami" width="100%">
+
+```
+Vim do atendimento ao cliente e do ensino, e hoje construo carreira em nuvem
+e cibersegurança. Conheço o contact center por dentro, e é por isso que quero
+construir (e proteger) o que roda por trás dele.
+
+Certificada AWS (Developer Associate e Cloud Practitioner), 320h de
+cibersegurança no Hackers do Bem (Blue Team) e em formação em Amazon Connect
+na Escola da Nuvem.
+
+Busco minha primeira oportunidade: Amazon Connect (desenvolvimento ou
+sustentação) ou CloudOps. Meu objetivo de longo prazo é Segurança em Nuvem.
+```
+
+**EN —** Customer-service background turned cloud developer. AWS Certified Developer – Associate and Cloud Practitioner, Blue Team training (320h), currently learning Amazon Connect. Looking for a first role in Amazon Connect (development or support) or CloudOps, with a long-term goal in Cloud Security.
+
+<img src="assets/h-projects.svg" alt="// ls ~/projects" width="100%">
+
+<p align="center">
+  <a href="https://github.com/jessieviana/blue-team-lab"><img src="assets/card-blue-team-lab.svg" alt="blue-team-lab: infraestrutura corporativa simulada e segura com alertas de login SSH no Graylog" width="320"></a>
 </p>
 
-</div>
+**Em breve:** projeto em equipe da formação em Amazon Connect (Escola da Nuvem), que vou documentar aqui assim que for concluído.
 
----
+Também em equipe, na Escola da Nuvem: **Idoso+** (MVP serverless de painel de saúde com Transcribe, Lex, Comprehend Medical, Polly e Bedrock) e **Nova Solutions** (arquitetura AWS de controle de consumo por parceiros).
 
-## 💬 Sobre mim
+Todo projeto segue o mesmo roteiro: problema · diagrama · como rodar · custo estimado · como desmontar · o que aprendi.
 
-Minha experiência profissional vem de **Ensino, Atendimento, Vendas e SAC remoto**, áreas que me deram uma base forte em **comunicação assertiva, escuta ativa, resolução de problemas e entendimento das necessidades das pessoas**.
+<img src="assets/h-path.svg" alt="// learning-path" width="100%">
 
-Hoje, direciono essa experiência para a tecnologia por meio de estudos, certificações, projetos e experiências práticas em Cloud e Segurança, unindo esses conhecimentos ao meu objetivo de atuar com Segurança em Nuvem.**.
+```
+┌──────────────────────────────────────┬──────────────────────┐
+│ ÁREA                                 │ STATUS               │
+├──────────────────────────────────────┼──────────────────────┤
+│ AWS Developer Associate (DVA-C02)    │ ✓ CERTIFICADA        │
+│ AWS Cloud Practitioner (CLF-C02)     │ ✓ CERTIFICADA        │
+│ Amazon Connect · Escola da Nuvem     │ >> EM FORMAÇÃO       │
+│ Blue Team · Hackers do Bem           │ ✓ CONCLUÍDO          │
+└──────────────────────────────────────┴──────────────────────┘
+```
 
----
+<img src="assets/h-stack.svg" alt="// stack" width="100%">
 
-## ☁️ Segurança em Nuvem
+![Lambda](https://img.shields.io/badge/Lambda-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![API Gateway](https://img.shields.io/badge/API_Gateway-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![IAM](https://img.shields.io/badge/IAM-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Lex](https://img.shields.io/badge/Lex-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Ansible](https://img.shields.io/badge/Ansible-0d1117?style=flat-square&logo=ansible&logoColor=EE0000)
 
-| | |
-|---|---|
-| ☁️ | **AWS Certified Cloud Practitioner** |
-| ☁️ | **AWS Certified Developer – Associate** |
-| 🛡️ | **Formação em Blue Team** — Hackers do Bem |
-| 🔐 | Estudos e práticas de **Cloud, IAM, redes e segurança** |
-| 💻 | Estudos em **Python, SQL, Linux e Git/GitHub** |
+<img src="assets/h-mentorship.svg" alt="// mentorship.log" width="100%">
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+```
+[INFO] Mentora Técnica voluntária · Escola da Nuvem
+[INFO] 83,3% dos alunos acompanhados aprovados no Cloud Practitioner
+[INFO] Admin · Gotham Tech Community (comunidade tech liderada por mulheres)
+[OK] Building · Learning · Sharing · Repeat
+```
 
----
-
-## 🏅 Certificações e formações
-
-| | Certificação / Formação | Emissor | Ano |
-|---|---|---|---|
-| ☁️ | **AWS Certified Developer – Associate** (DVA-C02) | Amazon Web Services | 2026 |
-| 🛡️ | **Fundamentos e Especialização Blue Team** — Hackers do Bem · Formação em Cibersegurança | RNP | 2026 |
-| 🔐 | **Trilha de Carreira de Analista Júnior de Cibersegurança** (Junior Cybersecurity Analyst) | Cisco Networking Academy | 2026 |
-| 🤖 | **AWS re/Start e Inteligência Artificial** | Escola da Nuvem | 2025 |
-| 🎓 | **AWS re/Start Graduate** | Amazon Web Services | 2025 |
-| ✨ | **Nexa — Fundamentos de IA Generativa com Bedrock** | DIO | 2025 |
-| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services | 2025 |
-| 🛡️ | **Hackers do Bem** — Nivelamento e Segurança da Informação Básico | Senai São Paulo | 2024 |
-
-> 🔗 Todas as credenciais podem ser verificadas no meu [Credly](https://www.credly.com/users/jessieviana).
-
----
-
-## 📚 Atualmente estudando
-
-- 📊 **Análise de Dados com Python** — PrograMaria
-- 💾 **Veeam Foundation & Advanced** — PISE4 Academy
-- 📞 **Amazon Connect** - Escola da Nuvem
-- ☁️ Continuação dos estudos em **Cloud e Segurança em Nuvem**
-
----
-
-## 🧪 Sobre meus repositórios
-
-Meu GitHub reúne **projetos, laboratórios, exercícios e estudos** de diferentes etapas da minha formação em tecnologia. Você encontrará por aqui experiências com **AWS, Python, SQL, Linux, redes e segurança**, além de projetos desenvolvidos durante cursos e programas de formação.
-
-### ✨ Projetos que representam minha trajetória
-
-| Projeto | Descrição |
-|---|---|
-| ☁️ [**Lab Jogo de Adivinhação — AWS Serverless**](https://github.com/jessieviana/lab-jogo-adivinhacao-aws-serverless) | Laboratório prático com arquitetura serverless na AWS |
-| 📊 [**Lighthouse — Ciclo Preparatório**](https://github.com/jessieviana/lighthouse-ciclo-preparatorio) | Estudos e exercícios do ciclo preparatório |
-| 🧓 [**Idoso+ — Painel de Monitoramento**](https://github.com/jessieviana/idosomais) | Painel de monitoramento voltado ao cuidado de idosos |
-
----
-
-## 🤝 Comunidade e compartilhamento
-
-- 🦇 **Admin** da [**Gotham Tech Community**](https://whatsapp.com/channel/0029VbCdsBj5Ejy0ii0kED3u)
-- 🎓 **Mentora Técnica AWS** (atuação pontual) na **Escola da Nuvem**, apoiando pessoas que estão construindo sua trajetória em tecnologia
-
----
-
-## 📫 Onde me encontrar
-
-<p>
-  <a href="https://linkedin.com/in/jessieviana">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.credly.com/users/jessieviana">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbCdsBj5Ejy0ii0kED3u">
+    <img src="assets/community.svg" alt="Gotham Tech Community — comunidade de tecnologia liderada por mulheres. Entrar no canal do WhatsApp." width="100%">
   </a>
 </p>
 
----
+<img src="assets/h-contact.svg" alt="// ping me" width="100%">
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jessieviana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/jessieviana)
+[![Credly](https://img.shields.io/badge/Credly-badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=0d1117)](https://www.credly.com/users/jessieviana)
 
-💜 *Aprender, praticar e compartilhar conhecimento fazem parte da minha jornada em tecnologia.*
-
-</div>
+```
+[ SESSION ACTIVE · jessieviana@cloud-defender:~$ █ ]
+```
